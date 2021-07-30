@@ -4,4 +4,4 @@
 
 #### Stack
 
-[![Zymrael's github stats](https://img.shields.io/badge/-Julia-purple?style=plastic&logo=Julia&logoColor=green&))]
+![](https://img.shields.io/badge/-Julia-purple?style=plastic&logo=Julia&logoColor=green&))
